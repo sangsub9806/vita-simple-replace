@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "vita-simple-replace:toggle"
   },
-  "repository": "https://github.com/atom/vita-simple-replace",
+  "repository": "https://github.com/vita-simple-replace",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
